@@ -66,3 +66,8 @@ body::before {
 	translateY(-10vh) rotate(360deg);
 	opacity: 0; }
 }
+button :hover {
+	background-color: #ff4757;
+	transform: scale(1.1);
+	transition: 0.3s;
+}
